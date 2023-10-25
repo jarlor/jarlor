@@ -15,5 +15,5 @@ jobs:
         run: |
           curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" \
           -H "Accept: application/vnd.github.everest-preview+json" \
-          -H "Content-Type: application/json" https://api.github.com/repos/shenxianpeng/shenxianpeng/dispatches \
+          -H "Content-Type: application/json" https://api.github.com/repos/jarlor/jarlor/dispatches \
           --data '{"event_type": "special_repository"}'
