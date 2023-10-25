@@ -19,5 +19,3 @@ A Chinese Coder Working to Break the Jesus-Hitler Duality Balance
 ---
 
 [![Jarlor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jarlor&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
