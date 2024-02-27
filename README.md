@@ -6,8 +6,6 @@
 \/ /_/ |_| |_| |_|\___|_|  \___| ( ) \____/  |_| |_| |_| \___/ \__,_|_|  |_|\___/|_|    /____/_| |_|\__,_|_| |_|\__, |
                                  |/                                                                             |___/ 
 ```
-A Chinese Coder Working to Break the Jesus-Hitler Duality Balance
-
 ---
 
 ## Recent Blogs
