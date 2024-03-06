@@ -10,6 +10,7 @@
 
 ## Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Latex_Env_Build](https://www.jarlor.site/2024/03/01/latex-env-build/)
 - [在无特定框架约束的Python项目中实现全局异常处理机制](https://www.jarlor.site/2023/10/26/python-cataching-global-exception/)
 - [Hadoop生态集群快速搭建&lpar;Powerd by Docker、Ambari&rpar;](https://www.jarlor.site/2023/10/15/hadoop-on-docker/)
 - [Hello World](https://www.jarlor.site/2023/10/11/hello-world/)
