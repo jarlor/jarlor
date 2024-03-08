@@ -10,6 +10,7 @@
 
 ## Recent Blogs
 <!-- BLOG-POST-LIST:START -->
+- [WSL2的网络相关问题](https://www.jarlor.site/2024/03/08/wsl-network/)
 - [LaTeX Environment Build](https://www.jarlor.site/2024/03/05/latex-env-build/)
 - [在无特定框架约束的Python项目中实现全局异常处理机制](https://www.jarlor.site/2023/10/26/python-cataching-global-exception/)
 - [Hadoop生态集群快速搭建&lpar;Powerd by Docker、Ambari&rpar;](https://www.jarlor.site/2023/10/15/hadoop-on-docker/)
